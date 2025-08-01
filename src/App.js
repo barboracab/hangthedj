@@ -9,12 +9,11 @@ function App() {
       flexDirection: 'column',
       justifyContent: 'center',
       alignItems: 'center',
-      backgroundColor: '#f0f0f0',
+      backgroundColor: '#000000',
       textAlign: 'center',
       fontFamily: 'Arial, sans-serif',
     }}>
       <img src={taylor} alt="In progress" style={{ maxWidth: '80%', height: 'auto', marginBottom: 20 }} />
-      <h1>in progress</h1>
     </div>
   );
 }
